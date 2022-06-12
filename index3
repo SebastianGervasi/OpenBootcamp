@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>"Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+
+<body>
+  <table>
+    <tr>
+      <th>Titulo</th>
+      <th>Autor</th>
+      <th>Año de publicacion</th>
+      <th>Enlace a Amazon</th>
+    </tr>
+    <tr>
+      <td>Harry Potter y la cámara secreta</td>
+      <td>J.K. Rowling</td>
+      <td>1998</td>
+      <td><a href="https://www.amazon.es/Harry-Potter-c%C3%A1mara-secreta-colecci%C3%B3n-ebook/dp/B0192CTNJ0/">Click
+          aqui</a></td>
+    </tr>
+    <tr>
+      <td>Harry Potter y la piedra filosofal</td>
+      <td>J.K. Rowling</td>
+      <td>1997</td>
+      <td><a href="https://www.amazon.es/Harry-Potter-piedra-filosofal-colecci%C3%B3n-ebook/dp/B0192CTNHW/">Click
+          aqui</a></td>
+    </tr>
+    <tr>
+      <td>Harry Potter y las Reliquias de la Muerte</td>
+      <td>J.K. Rowling</td>
+      <td>2007</td>
+      <td><a
+          href="https://www.amazon.es/Harry-Potter-Reliquias-Muerte-colecci%C3%B3n-ebook/dp/B0192CTNPO/">Click
+          aqui</a></td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
